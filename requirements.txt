@@ -1,5 +1,5 @@
 You need to install all these modules in your system first using :-
-```pip install module_name```
+pip install module_name
 
 pyttsx3
 pyaudio
