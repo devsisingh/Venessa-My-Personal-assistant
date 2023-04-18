@@ -1,2 +1,15 @@
 # Venessa-My-Personal-assistant
-Venessa is my personal assistant for the system. She can assist you with simple tasks like sending an email with just on your command. She greets you too and can help you search for anything on google. She can open apps on your voice command, can play music, tell the current time, and so on. She will keep assisting you till she is commanded to exit.
+
+## Venessa is my personal assistant for the system</br>
+***she can assist you with***
+- simple task like sending email 
+- she can greet you 
+- she can help search for anything on google.
+- she can open apps with voice commands
+- she can play music 
+- she can tell current time
+- she can keep assisting you till exit command.
+
+
+---
+---
